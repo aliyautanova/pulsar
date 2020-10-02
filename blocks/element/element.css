@@ -1,0 +1,7 @@
+@import url(./__photo/element__photo.css);
+@import url(./__container/element__container.css);
+
+.element{
+    background-color: rgb(	5, 19, 46);
+    padding-bottom: 232px;
+}

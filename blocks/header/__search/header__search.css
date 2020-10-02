@@ -1,0 +1,6 @@
+.header__search{
+    margin: 10px 0 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}

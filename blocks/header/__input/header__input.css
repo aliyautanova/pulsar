@@ -1,0 +1,7 @@
+.header__input{
+    width: 77vh;
+    height: 50px;
+    border:1px solid #111;
+    border-top: none;
+    margin-left: 6px;
+}

@@ -1,0 +1,6 @@
+.horizontal__case{
+    margin: 42px 88px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

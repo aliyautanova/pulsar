@@ -1,0 +1,14 @@
+.horizontal__button{
+    width: 269px;
+    height: 77px;
+    background: #FFA901;
+    box-shadow: 0px 0px 30px rgba(255, 228, 176, 0.5);
+    border-radius: 8px;
+    font-size: 25px;
+    line-height: 22px;
+    text-align: center;
+    color: black;
+    box-sizing: border-box;
+    outline: none;
+    align-self: center;
+}

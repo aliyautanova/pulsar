@@ -1,0 +1,18 @@
+@import url(./__about-item/promo__about-item.css);
+@import url(./__about-link/promo__about-link.css);
+@import url(./__about-list/promo__about-list.css);
+@import url(./__subtitle/promo__subtitle.css);
+@import url(./__title/promo__title.css);
+@import url(./__about/promo__about.css);
+@import url(./__container/promo__container.css);
+
+
+
+.promo{
+    background-image: url(../../images/main__bg.jpg);
+    background-size: cover;
+    margin: 0;
+    padding-bottom: 179px;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,11 @@
+.promo__about-link{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+  }
+
+
+  .header__about-link:hover{
+    opacity: .5;
+  }
+  

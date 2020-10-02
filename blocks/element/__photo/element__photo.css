@@ -1,0 +1,35 @@
+.element__photo{
+    max-width: 410px;
+    margin: -50px auto 0;
+}
+
+.element__photo:last-of-type{
+    margin-right: 0;
+}
+
+
+@media screen and (max-width: 1600px){
+    .element__photo{
+      max-width: 310px;
+    }
+}
+  
+@media screen and (min-width: 1100px) and (max-width: 1300px){
+    .element__photo{
+      max-width: 260px;
+    }
+}
+  
+@media screen and (min-width: 820px) and (max-width: 1100px){
+    .element__photo{
+      max-width: 200px;
+    }
+}
+
+@media screen and (min-width: 650px) and (max-width: 820px){
+    .element__photo{
+      max-width: 150px;
+    }
+}
+
+

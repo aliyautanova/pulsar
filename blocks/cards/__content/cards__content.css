@@ -1,0 +1,6 @@
+.cards__content{
+    display: flex;
+    flex-direction: row;
+    width: 77%;
+    margin: 36px auto;
+}

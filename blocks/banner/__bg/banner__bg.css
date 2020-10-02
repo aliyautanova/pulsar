@@ -1,0 +1,9 @@
+.banner__bg{
+    background: url(../../../images/banner_bg.png);
+    z-index: 2;
+    background-size: cover;
+    background-repeat: no-repeat;
+    vertical-align: top;
+    grid-area: bg;
+    position: relative;
+}

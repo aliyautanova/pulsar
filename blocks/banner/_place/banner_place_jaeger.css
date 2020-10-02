@@ -1,0 +1,7 @@
+.banner_place_jaeger{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    background-image: url(../../../images/jaeger__bammer.png);
+    overflow: hidden;
+}

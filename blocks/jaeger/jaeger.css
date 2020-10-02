@@ -1,0 +1,11 @@
+@import url(./__subtitle/jaeger__subtitle.css);
+@import url(./__text/jaeger__text.css);
+@import url(./__title/jaeger__title.css);
+@import url(./__capture/jaeger__capture.css);
+@import url(./__content/jaeger__content.css);
+
+.jaeger{
+    display: flex;
+    flex-direction:column;
+    background-color: rgb(3, 29, 56);
+}
