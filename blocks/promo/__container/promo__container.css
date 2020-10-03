@@ -14,10 +14,10 @@
   }
 }
   
-@media screen and (min-width: 425px) and (max-width: 768px){
+@media screen and (max-width: 768px){
   .promo__container{
-    margin: 100px auto 0;
-    width: 80%;
+    margin: 20px auto 0;
+    width: 90%;
     text-align: center;
   }
 }
