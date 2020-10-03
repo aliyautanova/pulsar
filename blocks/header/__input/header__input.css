@@ -23,3 +23,8 @@
       width: 280px;
     }
   }
+  @media screen  and (max-width: 425px){
+    .header__input{
+      display: none;
+    }
+  }

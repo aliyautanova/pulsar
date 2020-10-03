@@ -4,3 +4,10 @@
 .promo__about-item:last-of-type{
     margin-right: 0;
   }
+
+
+  @media screen  and (max-width: 485px){
+    .promo__about-item{
+        margin-right: 30px;
+    }
+  }

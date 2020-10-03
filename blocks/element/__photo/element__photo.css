@@ -33,4 +33,11 @@
     }
 }
 
+@media screen and (max-width: 600px){
+  .element__photo{
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+}
+
 

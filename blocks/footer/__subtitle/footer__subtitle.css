@@ -1,0 +1,10 @@
+
+.footer__subtitle{
+    font-size: 24px;
+}
+
+@media screen and (max-width: 768px){
+    .footer__subtitle{
+        font-size: 10px;
+    }
+  }

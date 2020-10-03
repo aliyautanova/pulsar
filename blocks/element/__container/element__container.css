@@ -11,3 +11,12 @@
       padding: 30px 0 0 0;
     }
 }
+
+
+@media screen and (max-width: 600px){
+  .element__container{
+    padding: 30px 0 0 0;
+    flex-direction: column;
+    width: 50%;
+  }
+}

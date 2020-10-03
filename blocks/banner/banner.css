@@ -9,7 +9,7 @@
 .banner{
     font-family: 'Bebas Neue',  cursive;
     background-color: #111214;
-    width: 718px;
+    max-width: 718px;
     margin-right: 40px;
     display: grid;
     grid-template-columns: repeat(1, 1fr);

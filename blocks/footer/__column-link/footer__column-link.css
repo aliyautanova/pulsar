@@ -9,3 +9,13 @@
     opacity: .5;
     transition: .3s;
 }
+
+
+@media screen and (max-width: 768px){
+  .footer__column-link{
+    text-decoration: none;
+    color: white;
+    line-height: 12px;
+    font-size: 10px;
+  }
+}
