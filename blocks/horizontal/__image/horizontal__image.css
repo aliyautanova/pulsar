@@ -1,8 +1,26 @@
 .horizontal__image{
   width: 566px;
   height: 350px;
-  position: absolute;
-  position: absolute;
-  top: 96px;
-  right: 731px;
+  grid-column: 1/1;
+  grid-row: 1/1;
+margin: 0 0 100px;
+}
+
+@media screen and (max-width: 1200px){
+  .horizontal__image{
+    width: 466px;
+    height: 250px;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1232px){
+.horizontal__image{
+
+}
+}
+
+@media screen and (min-width: 425px) and (max-width: 768px){
+.horizontal__image{
+
+}
 }

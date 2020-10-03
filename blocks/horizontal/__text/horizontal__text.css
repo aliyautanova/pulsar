@@ -2,6 +2,25 @@
     width: 420px;
     font-size: 50px;
     color: white;
-
     margin: 81px 0;
+}
+
+@media screen and (max-width: 1200px){
+    .horizontal__text{
+
+        width: 200px;
+        font-size: 20px;
+    }
+  }
+  
+@media screen and (min-width: 769px) and (max-width: 1232px){
+  .photo-grid{
+
+  }
+}
+  
+@media screen and (min-width: 425px) and (max-width: 768px){
+  .photo-grid{
+
+  }
 }

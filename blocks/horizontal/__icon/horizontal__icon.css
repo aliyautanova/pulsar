@@ -1,8 +1,14 @@
 .horizontal__icon{
     width: 119px;
-
-    position: relative;
-    top:-111px;
-    left: 561px;
+    margin: 150px 300px;
     z-index: 2;
+    grid-column: 1/1;
+  grid-row: 1/1;
 }
+
+@media screen and (max-width: 1200px){
+    .horizontal__icon{
+        margin: 140px 200px;
+        width: 80px;
+    }
+  }

@@ -4,3 +4,9 @@
     width: 77%;
     margin: 36px auto;
 }
+
+@media screen and (max-width: 1300px){
+    .cards__content{
+        width: 90%;
+    }
+  }

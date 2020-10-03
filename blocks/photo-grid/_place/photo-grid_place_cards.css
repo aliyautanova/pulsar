@@ -3,3 +3,16 @@
     grid-template-rows: repeat(2, 1fr);
     margin: 0;
 }
+
+@media screen and (max-width: 1300px){
+    .photo-grid_place_cards{
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+    }
+  }
+
+@media screen and (max-width: 1200px){
+    .photo-grid_place_cards{
+        display: none;
+    }
+  }

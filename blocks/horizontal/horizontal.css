@@ -14,3 +14,10 @@
     background-size: cover;
     margin-top: 163px;
 }
+
+@media screen  and (max-width: 1232px){
+    .horizontal{
+        margin-top: 50px;
+    }
+  }
+    

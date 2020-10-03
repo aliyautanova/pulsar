@@ -1,3 +1,21 @@
 .button_place_promo{
     margin: 26px 180px ;
     }
+
+    @media screen and (max-width: 1800px){
+        .button_place_promo{
+            
+        }
+      }
+      
+      @media screen and (min-width: 769px) and (max-width: 1024px){
+        .button_place_promo{
+            margin: 20px auto;
+        }
+      }
+      
+      @media screen and (min-width: 425px) and (max-width: 768px){
+        .button_place_promo{
+          max-width: 340px;
+        }
+      }

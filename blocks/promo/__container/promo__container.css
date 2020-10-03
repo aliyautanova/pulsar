@@ -1,4 +1,23 @@
 .promo__container{
-    margin:  200px 0 0 397px;
+    margin:  10px 0 0 397px;
     width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+  
+@media screen and (min-width: 769px) and (max-width: 1232px){
+  .promo__container{
+    margin: 100px auto 0;
+    width: 70%;
+    text-align: center;
+  }
+}
+  
+@media screen and (min-width: 425px) and (max-width: 768px){
+  .promo__container{
+    margin: 100px auto 0;
+    width: 80%;
+    text-align: center;
+  }
 }

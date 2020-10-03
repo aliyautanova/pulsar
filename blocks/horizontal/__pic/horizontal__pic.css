@@ -1,7 +1,28 @@
 .horizontal__pic{
     width: 521px;
     height: 330px;
-    position: absolute;
-    top: 155px;
-    right: 473px;
+    margin: 150px 0 0 200px;
+    grid-column: 1/1;
+    grid-row: 1/1;
+}
+
+
+@media screen and (max-width: 1200px){
+    .horizontal__pic{
+      margin: 100px 0 0 150px;
+      width: 421px;
+      height: 230px;
+    }
+  }
+  
+@media screen and (min-width: 769px) and (max-width: 1232px){
+  .photo-grid{
+
+  }
+}
+  
+@media screen and (min-width: 425px) and (max-width: 768px){
+  .photo-grid{
+
+  }
 }

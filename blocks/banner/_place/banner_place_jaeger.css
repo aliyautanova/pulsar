@@ -5,3 +5,9 @@
     background-image: url(../../../images/jaeger__bammer.png);
     overflow: hidden;
 }
+
+@media screen and (max-width: 1200px){
+    .banner_place_jaeger{
+        display: none;
+    }
+  }

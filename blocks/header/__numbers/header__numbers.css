@@ -1,4 +1,4 @@
 .header__numbers{
-    width: 250px;
-    margin: 13px 96px 0;
+    max-width: 250px;
+    align-self: center;
 }

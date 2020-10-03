@@ -1,5 +1,4 @@
 .promo__about{
-    width: 40%;
-    border: 1px solid white;
-    margin: 20px 0 0 440px;
+    width: 100%;
+    margin: 0 auto 200px;
 }

@@ -2,3 +2,9 @@
     width: 75%;
     margin: 40px auto 0;
 }
+
+@media screen and (max-width: 1300px){
+    .jaeger__content{
+        width: 90%;
+    }
+  }
